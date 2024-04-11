@@ -51,7 +51,7 @@ class Sobre_View extends StatelessWidget {
                   // Links para redes sociais
                   ListTile(
                     leading: Icon(Icons.link),
-                    title: Text('https://www.exemplo.com'),
+                    title: Text('github.com/GuilhermeGambelli'),
                   ),
                 ],
               ),
